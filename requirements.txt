@@ -1,0 +1,2 @@
+# No Python dependencies required
+# This file helps Railway detect Python project
